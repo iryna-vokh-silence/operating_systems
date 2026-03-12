@@ -51,6 +51,30 @@ Documents	Library		Music		Public
 
 ## Завдання 2. Робота з документацією
 
+Виконані команди:
+
+`man ls`
+<img width="660" height="806" alt="man ls " src="https://github.com/user-attachments/assets/b97d3313-54e4-4e17-bea5-968582dafecc" />
+
+`help cd`  -> виконала `man cd` (на macos `help cd` не працює)
+<img width="658" height="810" alt="man cd" src="https://github.com/user-attachments/assets/ec7026e2-02d2-4631-9ee7-41e7273ee84f" />
+
+`man cat` 
+<img width="651" height="804" alt="man cat" src="https://github.com/user-attachments/assets/0e3ef02f-82fc-4a2a-8b2e-fa578a6488a1" />
+
+`man man `
+<img width="648" height="797" alt="man man" src="https://github.com/user-attachments/assets/ee3faf63-9106-4267-bdfd-c4782f209324" />
+
+`cp --help`  -> `man cp` (на macos `cp --help` не працює)
+<img width="647" height="796" alt="man cp" src="https://github.com/user-attachments/assets/8e060efd-8c18-436c-ac30-b3f3f5028318" />
+
+`mv --help` -> `man mv`  (на macos `mv --help` не працює)
+<img width="645" height="786" alt="man mv" src="https://github.com/user-attachments/assets/f084294f-1ece-4b7c-847c-b362408da40f" />
+
+Загальний скрін терміналу
+<img width="637" height="807" alt="general" src="https://github.com/user-attachments/assets/8ea456a4-ff21-4f9b-bfe9-819c5c50debe" />
+
+
 1. **Ключ ls для прихованих файлів:**
 
    Відповідь: Ключ `-a` (показує всі файли, включаючи . та ..) або `-A` (показує тільки приховані файли).
